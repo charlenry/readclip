@@ -10,7 +10,7 @@ This script has been tested on Linux Ubuntu 14.04 LTS.
 For the script to work, install the `libttspico-utils`, `libttspico0`, `libttspico-data`, `sox`, `libsox-fmt-alsa`, `libsox-fmt-base`, `libsox2` and `xsel` packages.
 Accessorily, you can install the `mbrola` and `espeak` packages with the languages ​​of your choice.
 
-## USAGE: ##
+## Usage: ##
 Type the following command line into a terminal where the script is located according the text language you want to read:
 
 	For English texts:
