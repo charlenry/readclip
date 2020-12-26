@@ -24,4 +24,4 @@ Type the following command line into a terminal where the script is located acco
 
 Then select and copy the text of your choice to hear the text read.
 As long as the script is running, any text copied to the clipboard will be read.
-To stop clipboard playback, press the "Ctrl + C" keys in the terminal to stop the script.
+To stop clipboard playback, press the `Ctrl + C` keys in the terminal to stop the script.
