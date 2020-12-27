@@ -26,4 +26,4 @@ Then select and copy the text of your choice to hear the text read.
 As long as the script is running, any text copied to the clipboard will be read.
 To stop clipboard playback, press the `Ctrl + C` keys in the terminal to stop the script.
 
-Other languages are possible. Available languages: US English: en-US, UK English: en-GB, German: de-DE, Spanish: es-ES, French: fr-FR, Italian: it-IT. You just have to change the value of the `lang` variable.
+Other languages are possible. Available languages: US English: `en-US`, UK English: `en-GB`, German: `de-DE`, Spanish: `es-ES`, French: `fr-FR`, Italian: `it-IT`. You just have to change the value of the `lang` variable.
