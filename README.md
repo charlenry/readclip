@@ -11,7 +11,7 @@ For the script to work, install the `libttspico-utils`, `libttspico0`, `libttspi
 Accessorily, you can install the `mbrola` and `espeak` packages with the languages of your choice.
 
 ## Usage: ##
-Type the following command line into a terminal where the script is located according the text language you want to read:
+Type the following command line into a terminal where the script is located depending on the text language you want to read:
 
 	For English texts:
 		$ ./readclip-en.py
