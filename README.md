@@ -8,7 +8,7 @@ This script has been tested on Linux Ubuntu 14.04 LTS.
 
 ## Prerequisites: ##
 For the script to work, install the `libttspico-utils`, `libttspico0`, `libttspico-data`, `sox`, `libsox-fmt-alsa`, `libsox-fmt-base`, `libsox2` and `xsel` packages.
-Accessorily, you can install the `mbrola` and `espeak` packages with the languages ​​of your choice.
+Accessorily, you can install the `mbrola` and `espeak` packages with the languages of your choice.
 
 ## Usage: ##
 Type the following command line into a terminal where the script is located according the text language you want to read:
@@ -25,3 +25,5 @@ Type the following command line into a terminal where the script is located acco
 Then select and copy the text of your choice to hear the text read.
 As long as the script is running, any text copied to the clipboard will be read.
 To stop clipboard playback, press the `Ctrl + C` keys in the terminal to stop the script.
+
+Other languages are possible. Available languages: US English: en-US, UK English: en-GB, German: de-DE, Spanish: es-ES, French: fr-FR, Italian: it-IT. You just have to change the value of the `lang` variable.
