@@ -3,8 +3,8 @@ This script, when launched, allows you to read aloud a text in English or French
 What is played is also saved in an `out.wav` file in the same folder as the script.
 The contents of the `out.wav` file change with each new copy to the clipboard.
 This script is intended for the Linux system which lacks this type of application.
-This script uses the TTS Pico SVOX engine.
-This script has been tested on Linux Ubuntu 14.04 LTS and Linux Mint 20.1.
+It uses the TTS Pico SVOX engine.
+It has been tested on Linux Ubuntu 14.04 LTS and Linux Mint 20.1.
 
 ## Prerequisites: ##
 For the script to work, install the `libttspico-utils`, `libttspico0`, `libttspico-data`, `sox`, `libsox-fmt-alsa`, `libsox-fmt-base`, `libsox2` (or `libsox3` for Linux Mint 20.1) and `xsel` packages.
