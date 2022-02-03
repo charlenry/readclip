@@ -6,11 +6,10 @@
 # The contents of the out.wav file change with each new copy to the clipboard.
 # This script is intended for the Linux system which lacks this type of application.
 # This script uses the TTS Pico SVOX engine.
-# This script has been tested on Linux Ubuntu 14.04 LTS.
+# This script has been tested on Linux Ubuntu 14.04 LTS and Linux Mint 20.1.
 #
 # PREREQUISITES:
-# For the script to work, install the libttspico-utils, libttspico0, libttspico-data, sox, libsox-fmt-alsa, libsox-fmt-base, libsox2 and xsel packages.
-# Accessorily, you can install the mbrola and espeak packages with the languages ​​of your choice.
+# For the script to work, install the libttspico-utils, libttspico0, libttspico-data, sox, libsox-fmt-alsa, libsox-fmt-base, libsox2 (or libsox3 for Linux Mint 20.1) and xsel packages.
 #
 # USAGE:
 # Type the following command line into a terminal where the script is located:
