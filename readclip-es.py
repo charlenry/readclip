@@ -6,11 +6,10 @@
 # El contenido del archivo out.wav cambia con cada nueva copia al portapapeles.
 # Este script está destinado al sistema Linux que carece de este tipo de aplicación.
 # Este script utiliza el motor TTS Pico SVOX.
-# Este script ha sido probado en Linux Ubuntu 14.04 LTS.
+# Este script ha sido probado en Linux Ubuntu 14.04 LTS y Linux Mint 20.1.
 #
 # PRERREQUISITOS:
-# Para que el script funcione, instale los paquetes libttspico-utils, libttspico0, libttspico-data, sox, libsox-fmt-alsa, libsox-fmt-base, libsox2 y xsel.
-# Por cierto, puede instalar los paquetes mbrola y espeak con los idiomas que elija.
+# Para que el script funcione, instale los paquetes libttspico-utils, libttspico0, libttspico-data, sox, libsox-fmt-alsa, libsox-fmt-base, libsox2 (o libsox3 por Linux Mint 20.1) y xsel.
 #
 # UTILIZACIÓN:
 # Escriba la siguiente línea de comando en una terminal donde se encuentra el script:
