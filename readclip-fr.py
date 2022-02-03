@@ -6,11 +6,10 @@
 # Le contenu du fichier out.wav change à chaque nouvelle copie dans le presse-papier.
 # Ce script est destiné au système Linux qui manque de ce type d'application.
 # Ce script utilise le moteur TTS Pico SVOX.
-# Ce script a été testé sous Linux Ubuntu 14.04 LTS.
+# Ce script a été testé sous Linux Ubuntu 14.04 LTS et Linux Mint 20.1.
 #
 # PRÉREQUIS :
-# Pour que le script fonctionne, il faut installer les paquets libttspico-utils, libttspico0, libttspico-data, sox, libsox-fmt-alsa, libsox-fmt-base, libsox2 et xsel.
-# Accessoirement, vous pouvez installer les paquets mbrola et espeak avec les langues de votre choix.
+# Pour que le script fonctionne, il faut installer les paquets libttspico-utils, libttspico0, libttspico-data, sox, libsox-fmt-alsa, libsox-fmt-base, libsox2 (ou libsox3 pour Linux Mint 20.1) et xsel.
 #
 # USAGE :
 # Tapez la ligne de commande suivante dans un terminal où se trouve le script :
